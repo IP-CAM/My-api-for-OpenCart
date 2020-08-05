@@ -1,5 +1,4 @@
-Плагин для CMS OpenCart который позволяет мобильному приложению получать нужные данные.
----
-[Исходники android приложения](https://github.com/SMRostik/StoreOC)
----
-Одна из первых попыток написать клиент-серверное приложение немножко сложнее чем обычный чат.
+Plugin for CMS OpenCart that allows the mobile application to receive the required data.
+Android application sources
+
+One of the first attempts to write a client-server application is a little more complicated than a regular chat.
